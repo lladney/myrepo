@@ -10,9 +10,9 @@ Run the PipelineProject.py code to produce the PipelineProject.log containing th
 Testing Code with Sample Data:
 Download the folder containing the sample data (4 truncated transcriptomes from the 2 patient donors), and move it into the same directory as the PipelineProject.py and Accession_to_FASTA.py files. Again, make sure your working directory is set to the directory in which your .py file are located. 
 
-Functionality:
+Functionality/Output:
 HCMV transcriptomes from two patient donors from 2- and 6- days post-infection will be compared to all strains of the Human herpesvirus 5 (aka, Human cytomegalovirus or HCMV), as well as other virus strains. 
-The following information will be outputted in the outputLog file:
+The following information will be outputted in the PipelineProject.log file:
 (1) For each transcriptome, the number of read pairs mapped to the HCMV genome before and after Bowtie2 filtering will be outputted.
 (2) In the SPAdes assembly of the four transcriptomes, the number of contigs with a length exceeding 1000 base pairs will be outputted.
 (3) In the SPAdes assembly of the four transcriptomes, the number of base pairs in the assembly will be outputted.
