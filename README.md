@@ -17,3 +17,5 @@ The following information will be outputted in the outputLog file:
 (2) In the SPAdes assembly of the four transcriptomes, the number of contigs with a length exceeding 1000 base pairs will be outputted.
 (3) In the SPAdes assembly of the four transcriptomes, the number of base pairs in the assembly will be outputted.
 (4) Using the longest contig from the SPAdes assembly, the subject accession, percent identity, alignment length, start of alignment in query, end of alignment in query, start of alignment in subject, end of alignment in subject, bit score, E-value, and subject title will be outputted for the top 10 hits of members of the Betaherpesvirinae subfamily. 
+
+[SampleTestData.zip](https://github.com/lladney/myrepo/files/11004997/SampleTestData.zip)
